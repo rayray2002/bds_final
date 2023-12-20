@@ -1,0 +1,194 @@
+[
+    {
+        "role": "user",
+        "content": "廖世偉的經典名言"
+    },
+    {
+        "role": "assistant",
+        "content": "玩真的，做中學，頂著幹"
+    },
+    {
+        "role": "user",
+        "content": "廖世偉的實驗室簡介"
+    },
+    {
+        "role": "assistant",
+        "content": "廖世偉的實驗室是ABClab，ABClab秉持著改變世界的精神，持續致力於區塊鏈、大數據、人工智慧等領域發展，是台灣第一個運用區塊鏈技術揪出河川污染元兇的開發研究團隊，嚴格遵守中立性、學術性、為民奉獻的準則。ABClab貢獻這個大學於宇宙的精神 與世界頂尖大學持續地進行學術合作，並且與國際科技大廠進行產學合作，積極探尋人類下一步的可能性。"
+    },
+    {
+        "role": "user",
+        "content": "廖世偉開授的課程"
+    },
+    {
+        "role": "assistant",
+        "content": "1.Blockchain and Big Data 2.台大 玩真的 智能合約 課程 3.台大跨領域 FinTech 課 4.巨量資料系統(Big Data Systems) 5.巨量資料系統與應用(Application of Big Data Systems) 6.Android系統與編譯器(Android Virtual Machines and Compilers)"
+    },
+    {
+        "role": "user",
+        "content": "廖世偉的研究專長"
+    },
+    {
+        "role": "assistant",
+        "content": "1.大數據及區塊鏈 2.金融科技 (互聯網金融) 3.Android 安卓虛擬機及編譯器"
+    },
+    {
+        "role": "user",
+        "content": "廖世偉的簡介"
+    },
+    {
+        "role": "assistant",
+        "content": "在矽谷工作22年，任職過史丹福、Google和Intel。參與過Intel超執行緒技術研發和平行運算及最佳化編譯器開發。曾用機器學習技術助Google提高資料中心利用率，也是Android Compiler、Virtual Machine、RenderScript Engine的原作者，更因對Android的貢獻而獲得Google內部最高的創始人獎。2013年重回史丹福研究區塊鏈和FinTech，2015年在臺大開設區塊鏈及FinTech課程培育臺灣區塊鏈人才。"
+    },
+    {
+        "role": "user",
+        "content": "廖世偉的學歷"
+    },
+    {
+        "role": "assistant",
+        "content": "1.美國史丹佛大學博士 (1995-2000) 2.美國史丹佛大學碩士 (1992-1995) 3.國立臺灣大學學士 (1987-1991)"
+    },
+    {
+        "role": "user",
+        "content": "廖世偉在區塊鏈Blockchain的經歷"
+    },
+    {
+        "role": "assistant",
+        "content": "1.2013年回到Stanford展開區塊鏈 (Blockchain) 與數字金融 (FinTech & Digital Finance) 研究 2.2015年率先在台大開設區塊鏈 (Blockchain) 課程 3.帶領跨台灣、Silicon Valley的團隊實作開源 4.gcoin區塊鏈 (Blockchain) 系統"
+    },
+    {
+        "role": "user",
+        "content": "廖世偉在BigData的經歷"
+    },
+    {
+        "role": "assistant",
+        "content": "Machine's doctor: Machine learning for Data-center optimization，幫 Google 增加 Utilization，降低 Data-center 建置成本"
+    },
+    {
+        "role": "user",
+        "content": "廖世偉在Android的經歷"
+    },
+    {
+        "role": "assistant",
+        "content": "1.22 years in Silicon Valley, Stanford PhD and Google, 改變世界 2.因 Android 的貢獻而獲得 Google 頒發的最高榮譽：創始人獎 (Founders' award) 3.Android compiler, Virtual machine, RenderScript engine 原作者，造福所有 Android 使用者"
+    },
+    {
+        "role": "user",
+        "content": "廖世偉的新聞"
+    },
+    {
+        "role": "assistant",
+        "content": "《WHATs NEXT》國立臺灣大學資訊工程學系副教授廖世偉：正本清源思考區塊鏈創業題目，發揮普惠金融價值富國利民。廖世偉從業界回到學界教書，而且在頂大作育英才，針對區塊鏈領域觀察，有哪些產學合作上的現象？廖世偉表示，「以前的經驗就學生一開始就是想要做東西出來，幾個人他們開始要做産品，通常這樣子的模式産學合作就比較容易成功。如果一開始只想要發幣的話，人性包含貪婪與恐懼，在產學的動機性不對，往往很難創造後續的成就。」從廖世偉的分享當中，可以看到不論是基於區塊鏈技術的創業，又或是想要在Web 3時代大展身手，台灣仍需要利基於自身的優勢強項，找到使用者真正在乎的痛點，不僅推動經濟蓬勃，更是對社會影響帶來正向幫助。"
+    },
+    {
+        "role": "user",
+        "content": "請問廖世偉教授的實驗室的研究領域是什麼？"
+    },
+    {
+        "role": "assistant",
+        "content": "教授以前在 Google 時主要是研究編譯器的相關領域，而在回到台灣之後則致力於 AI 和區塊鍊金融領域相關的推廣與教育，因此如果你是對於編譯器、AI、區塊鍊金融相關的研究領域有興趣的話都可以來找老師討論，而目前教授最專心在做的部分應該是屬於區塊鍊金融的部分。"
+    },
+    {
+        "role": "user",
+        "content": "廖世偉教授會安排專題生做什麼樣的學習（比如讀paper等）？專題生有機會參與實驗室正在進行的研究嗎？"
+    },
+    {
+        "role": "assistant",
+        "content": "教授是一個非常忙碌的人，不但要做研究也有很多業界的相關的 case 在身上，因此總體來說，教授的專題學生們會分成兩種，一種是研究導向的，想要發 paper 出國念書的占多數，另一種則是教授所謂 “摸爬滾打” 型的，主要就是做 case 累積實務經驗或者是致力於創業的學生。教授在於實驗室的角色，比較是擔任一個啟發的角色，並且作為一個媒合的平台，他能夠提供非常有效的建議，並且非常願意給學生各種機會， 不管是想做研究或者是創業，只要跟教授談清楚你的最終目標，他都會全力支持並且盡力協助 (實驗室裡比較沒有制式化的規定，也沒有例行性的安排，教授希望的是能跟所有的學生當朋友，因此會有很多機會可以跟老師一起吃飯聊天)。"
+    },
+    {
+        "role": "user",
+        "content": "請問待在廖世偉教授實驗室的大學部學生一週大約得花多少時間在專題研究上？"
+    },
+    {
+        "role": "assistant",
+        "content": "這件事情很難說，就像前一個問題所說到的，端看你想要達成的是什麼，教授對於所有的學生非常仁慈，因此也相對不會主動要給學生壓力，因此比較好的做法可能是設定好目標，遵循著老師的座右銘 “玩真的，做中學，頂著幹”，再自己決定要花多少時間去完成它。"
+    },
+    {
+        "role": "user",
+        "content": "林軒田的實驗室簡介"
+    },
+    {
+        "role": "assistant",
+        "content": "林軒田的實驗室是CLLab，CLLab致力於機器學習，這項研究允許計算系統根據觀察到的數據-外部示例、環境反饋或其他資訊-積累的經驗，自適應地改進其性能。機器學習的重要性正在迅速和持續地增長，電腦科學內外的廣泛應用程式都有合作機會。在多媒體中，機器可以學習構建數位內容的語義結構，以幫助用戶蒐索所需的場景。在體系結構中，機器可以學習根據所有者的工作模式有效地管理計算資源，如筆記本電腦電池。在生物資訊學中，機器可以學習識別癌症基因並建議有前景的藥物。在電子商務中，機器可以學習每個單獨客戶的偏好，並顯示有針對性的廣告。"
+    },
+    {
+        "role": "user",
+        "content": "林軒田開授的課程"
+    },
+    {
+        "role": "assistant",
+        "content": "1.機器學習 2.機器學習基石 3.機器學習技法"
+    },
+    {
+        "role": "user",
+        "content": "林軒田的研究專長"
+    },
+    {
+        "role": "assistant",
+        "content": "1.機器學習 2.資料探勘 3.資訊理論"
+    },
+    {
+        "role": "user",
+        "content": "林軒田的簡介"
+    },
+    {
+        "role": "assistant",
+        "content": "林軒田教授於2001年在臺灣大學資訊工程系取得學士學位，並於2005年及2008年在美國加州理工學院相繼取得碩士及博士學位。他於2008年返回臺灣大學資訊工程系擔任助理教授，於2012年升等為副教授，並於2017年8月升等為教授。林教授長期投入「機器學習的理論基礎與演算法設計」之研究。他曾經在2013年至2014年兼任台灣人工智慧學會的秘書長，2016年至2019年擔任新創公司沛星科技的首席資料科學家，專注於將人工智慧應用於商業領域。目前林教授仍在沛星科技擔任首席資料科學顧問，與其共同成長。林教授合著了在亞馬遜線上書店暢銷的機器學習入門教科書「Learning From Data」，並以此教科書為基礎，開設了兩門以中文授課的MOOCs課程「機器學習基石」及「機器學習技法」。林教授於任教之臺灣大學，獲得2011年「教學傑出教師獎」、2013年「優良導師獎」及2016、2017和2018年「教學優良教師獎」；並獲2012年ACM Taipei Chapter「李國鼎青年研究獎」，2013年國科會「吳大猷先生紀念獎」與2017年傑出人才基金會「年輕學者創新獎」。林教授另共同帶領了臺灣大學的團隊，在2010至2013年，連續獲得了四年（六座）的KDDCup,冠軍"
+    },
+    {
+        "role": "user",
+        "content": "林軒田的學歷"
+    },
+    {
+        "role": "assistant",
+        "content": "1.美國加州理工學院博士主修資訊科學 (2003-2008) 2.美國加州理工學院碩士 (2003--2005) 3.國立臺灣大學資訊工程學系學士 (1997-2001)"
+    },
+    {
+        "role": "user",
+        "content": "林軒田的經歷"
+    },
+    {
+        "role": "assistant",
+        "content": "1.Cyberlink/Perfect Endowed Chair Professor, Department of Computer Science and Information Engineering, National Taiwan University, August 2022--present 2.Professor, Department of Computer Science and Information Engineering, National Taiwan University, August 2017--present (Associate Professor, August 2012--July 2017; Assistant Professor, August 2008--July 2012) 3.Visiting Scholar, University of California, Davis, July 2022--present 4.Chief Data Science Consultant, Appier, March 2019--present (Chief Data Scientist, February 2016--February 2019; Consultant, May 2014--January 2016) 5.Adjunct Professor, Graduate Institute of Networking and Multimedia, National Taiwan University, August 2017--present 6.Associate Chair, Department of Computer Science and Information Engineering, National Taiwan University, August 2020--May 2022 7.Secretary General, Taiwanese Association for Artificial Intelligence, February 2013--January 2015"
+    },
+    {
+        "role": "user",
+        "content": "林軒田的新聞"
+    },
+    {
+        "role": "assistant",
+        "content": "臺灣AI界產學強強合作，Appier延攬臺大副教授林軒田為首席資料科學家。林軒田表示，在Appier的主要任務是鞏固Appier現有的研發能量、招募更多優異人工智慧專家、傳遞自己的學術研究知識。在他擔任顧問時乃透過AI專注數位廣告行銷，之後則預計將AI拓展於其他領域，他也預測，AI未來的三大趨勢為：互動式AI、持續用AI定義與突破全新的問題、AI結合各行業的應用，他解釋，雖然一般人難以理解AI，「如可能覺得Google 人工智慧 AlphaGo 打敗歐洲圍棋冠軍有什麼了不起，自動駕駛也還有點遙遠等」，然而，其實像掃地機器人、蘋果語音助理 Siri、Amazon推薦商品機制等都是人工智慧滲入生活的應用，他說。"
+    },
+    {
+        "role": "user",
+        "content": "請問林軒田教授的實驗室的研究領域是什麼？"
+    },
+    {
+        "role": "assistant",
+        "content": "我們實驗室目前的研究領域就是機器學習。那老師基本上是鼓勵學生自己找有興趣的題目，只要跟機器學習有關老師基本上都會接受。那軒田老師本身之前做比較多 active learning、multilabel learning 和 cost-sensitive learning 的方向，如果有興趣的話可以看看教授的個人網頁。最近的話實驗室也有人做比較 deep learning 的 work ，像是 RL 或 GAN 都有人做。"
+    },
+    {
+        "role": "user",
+        "content": "如果想加入林軒田教授的 lab 有什麼能力或技能是一定要或是比較建議有的嗎？"
+    },
+    {
+        "role": "assistant",
+        "content": "如果要做機器學習研究的話，主要會用到微分、機率和線性代數，這三個跟機器學習比較相關的。那如果行有餘力的話也可以去修一些 optimization 有關的課。主要還是在近實驗室之後多看看 paper 會比較有幫助。"
+    },
+    {
+        "role": "user",
+        "content": "請問林軒田教授，開始成為實驗室的專題生後，要怎麼確認自己對於某個領域是不是有興趣的呢？發現跟原先想像的不太一樣該怎麼辦？"
+    },
+    {
+        "role": "assistant",
+        "content": "我相信大家在找專題的時候就會稍會做的 survey ，覺得自己對這個實驗室有興趣才會進去當專題生。如果你在做的過程覺得缺乏動力，那你可能就對這個領域沒有什麼熱誠。如果你發現跟本來想像的不一樣的話，覺得對這個領域沒有興趣，那我覺得以專題生的角度來說早點換教授不是一件壞事。我相信系上的教授也都是很能接受這件事的。這也是為什麼鼓勵大家早點開始做專題，因為你可以早點確認自己的方向在哪邊，也比較有時間換實驗室。"
+    },
+    {
+        "role": "user",
+        "content": "請問林軒田教授認為要做出什麼成果才算是一個合格的專題學分？"
+    },
+    {
+        "role": "assistant",
+        "content": "基本上我們實驗室的話，老師沒有要求要在某個特定時間完成某些事情這樣。原因大概是一個好的 project 是需要花時間的。以我們 lab 來說，通常都是學生自己規劃自己想要的進度，自己要求自己要做出,"
+    }
+]
