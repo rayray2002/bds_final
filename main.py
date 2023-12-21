@@ -1,5 +1,5 @@
 import streamlit as st
-import numpy as np
+import random
 from qa import get_response
 
 PROFESSOR_LIST = ["廖世偉", "林軒田"]
@@ -8,7 +8,11 @@ PROFESSOR_LIST = ["廖世偉", "林軒田"]
 def input_box():
     question = st.chat_input("Say something")
     if question:
-        answer = get_response(question, st.session_state.answer)
+        if st.session_state.answer in question:
+            st.balloons()
+            answer = "是。"
+        else:
+            answer = get_response(question, st.session_state.answer)
         st.session_state.qa_logs.append((question, answer))
 
 
@@ -26,7 +30,7 @@ def main():
         st.session_state.qa_logs = []
 
     if "answer" not in st.session_state:
-        st.session_state.answer = np.random.choice(PROFESSOR_LIST)
+        st.session_state.answer = random.choice(PROFESSOR_LIST)
 
     st.title("明資顧問")
 

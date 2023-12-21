@@ -21,9 +21,8 @@ system_message = "你是一個有幫助的機器人"
 
 
 def get_response(question, answer):
-    prompt = f"以上是關於{answer}的問答。接下來，請你當一個是非題回答機器人，根據檔案回答關於{answer}的是非題。\
-        你只能回答是、不是、和不知道。舉例來說：當我們問：他的專長領域有資訊安全嗎？\
-        你需要回答：不是。 因為他的專業不是資訊安全。請不要回答是、不是、不知道以外的東西\
+    prompt = f"以上是關於資工系教授的問答。接下來，請你當一個是非題回答機器人，根據檔案回答關於{answer}的是非題。\
+        你只能回答是、不是、和不知道。請不要回答是、不是、不知道以外的東西\
         請不要做任何補充說明，回答是、不是、不知道就好。\
         如果以上的問答沒有這題的答案，請回答不知道，不要亂回答\
         當我們問的問題不是是非題時，請回答不知道。例如：他的專業是什麼？ 請回答：不知道\
@@ -39,9 +38,11 @@ def get_response(question, answer):
     )
 
     messages.append({"role": "user", "content": question + question_filter})
+    # print(messages)
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo-16k", messages=messages, temperature=0
+        model="gpt-4-1106-preview", messages=messages, temperature=0
     )
+    print(response)
     return response.choices[0].message.content
 
 
